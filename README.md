@@ -10,7 +10,7 @@ A small command-line Python program with a menu.
 - Input validation with try/except
 
 ## Run
-python3 converter.py 
+    python3 converter.py 
 
 ## What I practiced
 Functions, a while loop with a menu, if/elif, the % operator, and error handling with try/except.
